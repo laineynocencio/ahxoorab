@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wahcexeiy.booqflow.com/sitemap.xml
